@@ -1,0 +1,11 @@
+.testimonial-container{
+background-color: #fbdabb;
+padding: 2rem 0;
+align-items: center;
+justify-content: center;
+}
+.test-header{
+    text-align: center;
+    font-size: 64px;
+    padding: 2rem 0;
+}
