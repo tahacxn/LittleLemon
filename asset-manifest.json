@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LittleLemon/static/css/main.a09a1581.css",
+    "main.js": "/LittleLemon/static/js/main.1ba756ff.js",
+    "static/js/787.c0b67421.chunk.js": "/LittleLemon/static/js/787.c0b67421.chunk.js",
+    "static/media/greek salad.jpg": "/LittleLemon/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/LittleLemon/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/bruchetta.jpeg": "/LittleLemon/static/media/bruchetta.16d6ccbad3536c2d7979.jpeg",
+    "static/media/restaurant.jpg": "/LittleLemon/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/photo-1564564321837-a57b7070ac4f.avif": "/LittleLemon/static/media/photo-1564564321837-a57b7070ac4f.2c6b14dcd544c5145f1c.avif",
+    "static/media/photo-1438761681033-6461ffad8d80.avif": "/LittleLemon/static/media/photo-1438761681033-6461ffad8d80.a1367e9489c3bf00509c.avif",
+    "static/media/photo-1506863530036-1efeddceb993.avif": "/LittleLemon/static/media/photo-1506863530036-1efeddceb993.d8509752e1d2b0bda2c4.avif",
+    "static/media/photo-1500648767791-00dcc994a43e.avif": "/LittleLemon/static/media/photo-1500648767791-00dcc994a43e.3d21823639aba313a073.avif",
+    "index.html": "/LittleLemon/index.html",
+    "main.a09a1581.css.map": "/LittleLemon/static/css/main.a09a1581.css.map",
+    "main.1ba756ff.js.map": "/LittleLemon/static/js/main.1ba756ff.js.map",
+    "787.c0b67421.chunk.js.map": "/LittleLemon/static/js/787.c0b67421.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a09a1581.css",
+    "static/js/main.1ba756ff.js"
+  ]
+}
